@@ -1,0 +1,21 @@
+/* Reset default styles */
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+/* Set a base font size and family */
+body {
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+}
+
+/* Add styles for the App component */
+.App {
+    text-align: center;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+/* Add styles for specific elements within the App component */
+ 
