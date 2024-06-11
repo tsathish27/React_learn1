@@ -1,8 +1,11 @@
-# React + Vite
+# React Learn1
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project, **React Learn1**, was developed as part of my journey to learn React.js. It includes various exercises and implementations to understand the core concepts of React.
 
-Currently, two official plugins are available:
+ 
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Demo
+
+You can view the live demo of this project [here] (https://tsathish27.github.io/React_learn1/).
+
+
